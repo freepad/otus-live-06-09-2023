@@ -4,7 +4,8 @@ module.exports = {
     es2021: true,
     node: true
   },
-  extends: 'standard',
+  plugins: ['jest'],
+  extends: ['standard', 'plugin:jest/recommended'],
   overrides: [
   ],
   parserOptions: {
