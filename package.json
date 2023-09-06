@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/freepad/otus-live-06-09-2023#readme",
   "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
     "eslint": "^8.48.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.28.1",
